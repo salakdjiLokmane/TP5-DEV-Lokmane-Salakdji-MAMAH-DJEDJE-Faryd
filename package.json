@@ -1,0 +1,1 @@
+{"name":"queenbee-tp5-dev","private":true,"type":"module","scripts":{"tp5":"node --test seance5-comportement-ddd/queenbee-alerte/alerte.spec.js","demo":"node seance5-comportement-ddd/queenbee-alerte/demo.js","lint:archi":"node tools/check-architecture.js"}}
